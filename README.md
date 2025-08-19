@@ -6,7 +6,7 @@ Sou estudante de **Engenharia de Software** na UNIPAMPA (Campus Alegrete), apaix
 
 ---
 
-## 🎨 Habilidades
+## 🎨 Principais Habilidades
 
 - **Linguagens:** Python, Java
 - **Versionamento:** Git, GitHub
