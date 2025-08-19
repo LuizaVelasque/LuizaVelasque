@@ -1,12 +1,12 @@
 # 🌌 Olá, eu sou a Luiza Figueiredo! 👋
 
-![Van Gogh Starry Night](https://media.giphy.com/media/xT0GqeSlGSRQutZsby/giphy.gif)
+![Van Gogh Starry Night](https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
 
 Sou estudante de **Engenharia de Software** na UNIPAMPA (Campus Alegrete) e apaixonada por **arte, tecnologia, programação e inovação**.  
 
 ---
 
-## 🎨 Habilidades
+## 🎨 Principais Habilidades
 - **Linguagens:** Python, Java  
 - **Versionamento:** Git, GitHub  
 - **Interesses:** Blockchain, Smart Contracts, Automação  
