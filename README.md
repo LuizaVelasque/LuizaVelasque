@@ -1,6 +1,6 @@
 # 🌌 Olá, eu sou a Luiza Figueiredo! 👋
 
-![Van Gogh Starry Night](https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
+![Van Gogh Starry Night]([https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg](https://giphy.com/gifs/van-gogh-g9wbFB61YEh1u))
 
 Sou estudante de **Engenharia de Software** na UNIPAMPA (Campus Alegrete) e apaixonada por **arte, tecnologia, programação e inovação**.  
 
